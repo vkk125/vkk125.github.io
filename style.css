@@ -23,3 +23,9 @@ h1{
 .alignright{
     text-align:right;
 }
+.white{
+    color:white;
+}
+.blackBackground{
+    background-color: black;
+}
